@@ -1,0 +1,26 @@
+table, th, td {
+  	border: 1px solid black;
+  	border-collapse: collapse;
+  	padding: 22px  22px 22px;
+  	margin: 0px 222px 0px 22px
+}
+.flat {
+ border: 5;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+
+
+
+    padding: 20px;
+    background-color: #404040;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+.bt1 {
+  border: 8;
+  line-height: 2.5;
+  padding: 0 20px;
+
+}
